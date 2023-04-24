@@ -1,29 +1,12 @@
-## Who will pay the bill
-This will give the random name of the person who need to pay the bill
+Who Will Pay
+This is a simple HTML, CSS and JavaScript project that randomly selects a name from a list of names. The selected person will be the one who pays for something (e.g. lunch, coffee, etc.).
 
-## Motivation
-This is my second Project on java script
- 
-## Screenshots
-![Alt text](img.png?raw=true "Adding user")
-![Alt text](img1.png?raw=true "Adding user")
+Getting Started
+To run this project, simply download or clone this repository to your local machine.
 
-## Tech/framework used
+git clone https://github.com/<your-username>/who-will-pay.git
+Copy
+Alternatively, you can download the ZIP file and extract it to a folder on your computer.
 
-<b>Built with</b>
-- javascript
-- bootstrap
-- html
-- css
-
-## Installation
-Nothing to install 
-
-## How to use?
-Go to the browser and paste the path of the index.html thats all.
-
-## Contribute
-
-Any one can contribute into this project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-
+Usage
+To use this project, simply open the index.html file in your web browser. You will be prompted to enter the names of all the participants (separated by commas). Once you have entered all the names, click on "Who Will Pay?" button and a random name will be selected.
